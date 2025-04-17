@@ -24,5 +24,5 @@ It quickly discovers live hosts and performs TCP or UDP port scans across multip
 1. **Open PowerShell as Administrator**
 2. **Run the script:**
    ```powershell
-   .\NetSegTestn.ps1
+   .\NetSegTest.ps1
    
